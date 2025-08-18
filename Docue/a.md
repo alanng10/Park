@@ -79,4 +79,4 @@ The spell is:
 "P" for Plane Titan.
 "a" for any class.
 "r" for radius total.
-"k" for kinded time.
+"k" for kind time.
