@@ -73,3 +73,10 @@ Park is noun gain all most.
 Park general is most general.
 
 Park level is most level.
+
+Park word has spell.
+The spell is:
+"P" for Plane Titan.
+"a" for any class.
+"r" for radius total.
+"k" for kinded time.
