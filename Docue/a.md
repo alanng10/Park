@@ -1,6 +1,6 @@
 # Park
 
-Park is most general and most level.
+Park is most gene and most level.
 
 Park is park park.
 
@@ -72,7 +72,7 @@ Park is gain all most.
 
 Park is noun gain all most.
 
-Park general is most general.
+Park gene is most gene.
 
 Park level is most level.
 
