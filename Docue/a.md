@@ -1,6 +1,6 @@
 # Park
 
-Park is most gene and most level.
+Park is most gene and most leve.
 
 Park is park park.
 
@@ -74,7 +74,7 @@ Park is noun gain all most.
 
 Park gene is most gene.
 
-Park level is most level.
+Park leve is most leve.
 
 Park word has spell.
 The spell is:
