@@ -76,6 +76,8 @@ Park gene is most gene.
 
 Park leve is most leve.
 
+PARK is all park included.
+
 Park word has spell.
 The spell is:
 "P" for Plane Titan.
