@@ -84,3 +84,5 @@ The spell is:
 "a" for any class.
 "r" for radius total.
 "k" for kind time.
+
+PARK gain has TIME gain.
