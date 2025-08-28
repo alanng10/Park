@@ -86,9 +86,3 @@ The spell is:
 "k" for kind time.
 
 PARK gain has TIME gain.
-
-park has gain.
-
-Park has Gain.
-
-PARK has GAIN.
