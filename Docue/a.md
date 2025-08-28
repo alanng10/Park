@@ -86,3 +86,5 @@ The spell is:
 "k" for kind time.
 
 PARK gain has TIME gain.
+
+PARK is most outer, inf base on Gain.
