@@ -78,6 +78,8 @@ Park leve is most leve.
 
 PARK is all park included.
 
+PARK is not form specific.
+
 Park word has spell.
 The spell is:
 "P" for Plane Titan.
