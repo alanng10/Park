@@ -80,6 +80,8 @@ PARK is all park included.
 
 PARK is not form specific.
 
+PARK meaning is not tagged with the existence of specific outer.
+
 Park word has spell.
 The spell is:
 "P" for Plane Titan.
