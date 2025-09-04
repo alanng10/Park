@@ -92,3 +92,5 @@ The spell is:
 PARK gain has FEEL gain.
 
 PARK is most outer, inf base on Gain.
+
+PARK is most apply able, inf base on Gain.
