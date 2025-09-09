@@ -72,7 +72,7 @@ Park is gain all most.
 
 Park is noun gain all most.
 
-Park gene is most gene. 
+Park tier is most tier. 
 
 Park leve is most leve. 
 
