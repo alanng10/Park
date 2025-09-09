@@ -1,6 +1,6 @@
 # Park
 
-Park is most geno.
+Park is most gene.
 
 Park is park park.
 
