@@ -1,6 +1,6 @@
 # Park
 
-Park is most gene and most leve.
+Park is most geno.
 
 Park is park park.
 
