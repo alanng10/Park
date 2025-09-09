@@ -82,6 +82,12 @@ PARK is not form specific.
 
 PARK meaning is not tagged with the existence of specific outer.
 
+park is most geno.
+
+Park is Most Geno.
+
+PARK is MOST GENO.
+
 Park word has spell.
 The spell is:
 "P" for Plane Titan.
