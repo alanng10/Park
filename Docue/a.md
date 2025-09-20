@@ -102,5 +102,3 @@ PARK is most outer, inf base on Gain.
 PARK is most outer able, inf base on Gain.
 
 PARK is most apply able, inf base on Gain.
-
-PARK ARCH has MOST GOOD FEEL.
