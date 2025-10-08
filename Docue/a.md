@@ -74,13 +74,9 @@ Park is noun gain all most.
 
 Park park is most park.
 
-Park feel is most feel.
-
 Park gene is most gene.
 
 Park time is most time.
-
-Park seer is most seer.
 
 Park love is most love.
 
