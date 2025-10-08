@@ -72,6 +72,8 @@ Park is gain all most.
 
 Park is noun gain all most.
 
+Park is Gene, Time and Love.
+
 Park park is most park.
 
 Park gene is most gene.
