@@ -98,6 +98,8 @@ Park is Most Geno.
 
 PARK is MOST GENO.
 
+PARK HAS KIND CIVE.
+
 Park word has spell.
 The spell is:
 "P" for Park Super.
