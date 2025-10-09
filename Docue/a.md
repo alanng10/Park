@@ -74,14 +74,6 @@ Park is noun gain all most.
 
 Park is Care, Time and Love.
 
-Park park is most park.
-
-Park gene is most gene.
-
-Park time is most time.
-
-Park love is most love.
-
 Park tier is most tier.
 
 Park leve is most leve.
