@@ -108,8 +108,6 @@ The spell is:
 "r" for radius total.
 "k" for kind time.
 
-PARK gain has FEEL gain.
-
 PARK is most outer, inf base on Gain.
 
 PARK is most outer able, inf base on Gain.
