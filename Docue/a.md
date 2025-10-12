@@ -94,6 +94,8 @@ PARK is MOST GENO ALL.
 
 PARK is MOST GENO NOUN ALL.
 
+PARK is MOST APPLY ABLE.
+
 PARK HAS KIND CIVE.
 
 Park word has spell.
@@ -113,5 +115,3 @@ The spell is:
 PARK is most outer, inf base on Gain.
 
 PARK is most outer able, inf base on Gain.
-
-PARK is most apply able, inf base on Gain.
