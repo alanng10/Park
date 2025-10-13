@@ -92,6 +92,8 @@ PARK is MOST GENO.
 
 PARK is MOST APPLY ABLE.
 
+PARK is MOST APPLY ABLE to ALL LIVE.
+
 PARK HAS KIND CIVE.
 
 Park word has spell.
