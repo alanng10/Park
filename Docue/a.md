@@ -113,3 +113,5 @@ The spell is:
 PARK is most outer, inf base on Gain.
 
 PARK is most outer able, inf base on Gain.
+
+OUTER TO PARK is UNGAIN.
